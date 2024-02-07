@@ -17,5 +17,6 @@ __Skills:__ Flutter | Git | Dart | C# | Python | .Net
 ---
 
 ### SOCIAL INFORMATION
-[<img width="40" height="40" src="https://img.icons8.com/3d-fluency/94/github.png" alt="github"/>](https://github.com/KorayErkin)  [<img width="40" height="40" src="https://img.icons8.com/3d-fluency/188/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/koray-erkin/)
+[<img width="40" height="40" src="https://img.icons8.com/3d-fluency/94/github.png" alt="github"/>](https://github.com/KorayErkin)  [<img width="40" height="40" src="https://img.icons8.com/3d-fluency/188/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/koray-erkin/) [<img width="40" height="40" src="https://img.icons8.com/fluency/48/stackoverflow.png" alt="stackoverflow"/>](https://stackoverflow.com/users/23100205)  
 
+---
