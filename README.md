@@ -15,3 +15,5 @@ __Skills:__ Flutter | Git | Dart | C# | Python | .Net
 - 🌱 I’m currently learning Flutter, .Net, Python
 
 ---
+
+### SOCIAL INFORMATION
