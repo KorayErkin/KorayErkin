@@ -17,4 +17,4 @@ __Skills:__ Flutter | Git | Dart | C# | Python | .Net
 ---
 
 ### SOCIAL INFORMATION
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KorayErkin)  
+[<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg](https://www.svgrepo.com/svg/353783/github-octocat)' alt='github' height='40'>](https://github.com/KorayErkin)  
