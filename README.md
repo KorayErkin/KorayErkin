@@ -7,4 +7,4 @@ I am a passionate professional in software development. I am particularly intere
 
 ---
 
-**Skills:** Flutter | Git | Dart | C# |
+__Skills:__ Flutter | Git | Dart | C# |
