@@ -8,3 +8,10 @@ I am a passionate professional in software development. I am particularly intere
 ---
 
 __Skills:__ Flutter | Git | Dart | C# | Python | .Net
+
+---
+
+- 🔭 I’m currently working on Flutter
+- 🌱 I’m currently learning Flutter, .Net, Python
+
+---
