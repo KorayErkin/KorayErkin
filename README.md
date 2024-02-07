@@ -26,3 +26,6 @@ __Skills:__ Flutter | Git | Dart | C# | Python | .Net
 
 ### GITHUB TROPHIES
 [![trophy](https://github-profile-trophy.vercel.app/?username=KorayErkin)](https://github.com/ryo-ma/github-profile-trophy)
+
+### GITHUB STREAK STATS
+![GitHub streak stats](https://streak-stats.demolab.com/?user=KorayErkin) 
