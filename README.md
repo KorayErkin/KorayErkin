@@ -1,31 +1,18 @@
-### Hi there 👋, my name is Koray Erkin
-#### Mobile Developer
+# 💫 About Me:
+I’m currently working on building scalable and efficient web & mobile applications using modern technologies like Flutter, React, Node.js and ASP.NET Framework.<br>Passionate about open-source contributions and continuous learning.<br><br>I’m looking to collaborate on open-source projects that focus on scalable and maintainable software development.<br>I’m interested in collaborating on innovative projects in mobile and web development, especially those following best coding practices.<br>I’m open to contributing to projects where clean architecture and design patterns are prioritized.<br><br>I’m looking for help with open-source contributions related to Flutter and mobile app development. I’m eager to collaborate with developers who specialize in MVVM architecture and modern UI/UX practices.<br><br>Deepening my expertise in Flutter & Dart while implementing MVVM architecture and state management best practices.<br>Expanding my knowledge in data structures & algorithms to write more efficient and optimized code.
+
+
+## 🌐 Socials:
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23100205) 
+
+# 💻 Tech Stack:
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=KorayErkin&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=KorayErkin&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KorayErkin&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-### About Me
-I am a passionate professional in software development. I am particularly interested in web and mobile technologies and focus on gaining experience in these areas. I am sensitive to project management, code quality and user experience and strive to achieve the best results in every project. I value continuous learning and self-improvement and have the ability to adapt quickly to new technologies. I also enjoy contributing to open source projects and participating in community events. My goal is to make valuable contributions and produce quality solutions in the software world.
+[![](https://visitcount.itsvg.in/api?id=KorayErkin&icon=0&color=1)](https://visitcount.itsvg.in)
 
----
-
-__Skills:__ Flutter | Git | Dart | C# | Python | .Net
-
----
-
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Flutter, .Net, Python
-
----
-
-### SOCIAL INFORMATION
-[<img width="40" height="40" src="https://img.icons8.com/3d-fluency/94/github.png" alt="github"/>](https://github.com/KorayErkin)  [<img width="40" height="40" src="https://img.icons8.com/3d-fluency/188/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/koray-erkin/) [<img width="40" height="40" src="https://img.icons8.com/fluency/48/stackoverflow.png" alt="stackoverflow"/>](https://stackoverflow.com/users/23100205)  
-
----
-
-### STATISTICS
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KorayErkin)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KorayErkin&show_icons=true)  
-
-### GITHUB TROPHIES
-[![trophy](https://github-profile-trophy.vercel.app/?username=KorayErkin)](https://github.com/ryo-ma/github-profile-trophy)
-
-### GITHUB STREAK STATS
-![GitHub streak stats](https://streak-stats.demolab.com/?user=KorayErkin) 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
