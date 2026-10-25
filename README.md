@@ -1,47 +1,18 @@
-<h1 align="center">Hi, I'm Koray 👋</h1>
+# 💫 About Me:
+🚀 I'm currently working on AI-powered projects, software development, and game development.<br>🤝 I'm looking to collaborate on AI, open-source, and creative technology projects.<br>💡 I'm looking for help with improving my programming skills and building better software.<br>🌱 I'm currently learning Artificial Intelligence, software development, and Unity game development.<br>💬 Ask me about AI tools, project ideas, automation, and technology.<br>⚡ Fun fact: I enjoy turning ideas into practical projects and exploring how AI can make them possible.
 
-<p align="center">
-  <b>Mobile App Developer</b>
-</p>
 
----
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=KorayErkin&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=KorayErkin&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=KorayErkin&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### About Me
-
-I'm a mobile developer who builds polished, production-ready apps with **Flutter**, solo and end to end. I care about clean architecture, offline-first design, and interfaces that feel right. For me it comes down to privacy, performance, and shipping things that people actually enjoy using.
-
-- 🔭 Currently building a subscription-tracking app (local-first, freemium, iOS-first Cupertino aesthetic)
-- 🛡️ Strong interest in security- and privacy-conscious architectures
-- 💬 Ask me about Flutter, clean architecture, or offline-first apps
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=KorayErkin&theme=transparent&no-frame=true&no-bg=true&margin-w=4)
 
 ---
+[![](https://komarev.com/ghpvc/?username=KorayErkin&icon=10&color=13)](https://visitcount.itsvg.in)
 
-### Tech Stack
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### Featured Projects
-
-#### 🔐 SecuriQ — Password Manager
-
-A fully offline-first password manager built with Flutter. It uses AES-256 (CBC) encryption with all data stored locally on the device. Features include a PIN lock, a secure password generator, security analytics, and backup & restore. Privacy is the default here, not an afterthought.
-
-#### 📅 Subscription Tracker *(in development)*
-
-A local-first app to keep recurring subscriptions under control. It runs on a freemium model with a generous free tier, follows an iOS-first Cupertino design language, and ships with EN / TR localization.
-
----
-
-<p align="center"><i>Building privacy-first apps, one commit at a time.</i></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
